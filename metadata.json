@@ -1,0 +1,6 @@
+{
+  "name": "Ustozimga — 1 Oktabr Muborak!",
+  "description": "IT ustoziga 1-oktabr O'qituvchilar va murabbiylar kuni uchun maxsus interaktiv tabrik veb-sayti.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
